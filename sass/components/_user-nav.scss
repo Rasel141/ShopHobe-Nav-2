@@ -1,0 +1,22 @@
+.user-nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    &__icon-box {
+        display: flex;
+        align-items: center;
+    }
+
+    &__dashboard {
+        height: 4.9rem;
+        width: 4.9rem;
+    }
+
+    &__user {
+        height: 4rem;
+        width: 4rem;
+    }
+
+
+}
