@@ -16,15 +16,15 @@ html {
 
 @font-face {
   font-family: 'DINCond-Bold';
-  src: url(fonts/DINCond-Bold.ttf); }
+  src: url(./fonts/DINCond-Bold.ttf); }
 
 @font-face {
   font-family: 'Gotham Narrow Black';
-  src: url(fonts/Gotham-Narrow-Black.otf); }
+  src: url(./fonts/Gotham-Narrow-Black.otf); }
 
 @font-face {
   font-family: 'Gotham Narrow Book';
-  src: url(fonts/Gotham-Narrow-Book.otf); }
+  src: url(./fonts/Gotham-Narrow-Book.otf); }
 
 body {
   box-sizing: border-box;
